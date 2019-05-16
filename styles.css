@@ -1,0 +1,35 @@
+
+
+.blackrectangle{
+    width:100px;
+    height:100px;
+    background:black;
+    outline-style: solid;
+}
+
+.whiterectangle{
+    width:100px;
+    height:100px;
+    background:white;
+    outline-style: solid;
+}
+
+.row{
+  color: red;
+}
+
+.column{
+  color: green;
+}
+
+.start{
+  background: blue;
+}
+
+.finish{
+  background: yellow;
+}
+
+.currentPosition{
+  background: grey;
+}
